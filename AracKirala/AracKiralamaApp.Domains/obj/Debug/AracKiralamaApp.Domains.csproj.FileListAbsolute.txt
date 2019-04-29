@@ -1,0 +1,6 @@
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.csprojAssemblyReference.cache
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.dll
+C:\Users\Muhammet\source\repos\AracKiralamaApp\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.pdb
