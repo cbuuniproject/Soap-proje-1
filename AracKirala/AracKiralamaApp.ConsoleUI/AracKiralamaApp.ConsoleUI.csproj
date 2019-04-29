@@ -58,13 +58,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AracKiralamaApp\AracKiralamaApp.Domains\AracKiralamaApp.Domains.csproj">
-      <Project>{cf31d7ae-10b7-41e7-98d2-2d9535df23e8}</Project>
-      <Name>AracKiralamaApp.Domains</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AracKiralamaApp.DAL\AracKiralamaApp.DAL.csproj">
       <Project>{eb9a5937-6f8f-462e-84de-aaee20e91bc5}</Project>
       <Name>AracKiralamaApp.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AracKiralamaApp.Domains\AracKiralamaApp.Domains.csproj">
+      <Project>{cf31d7ae-10b7-41e7-98d2-2d9535df23e8}</Project>
+      <Name>AracKiralamaApp.Domains</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

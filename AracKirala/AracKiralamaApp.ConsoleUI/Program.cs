@@ -13,7 +13,7 @@ namespace AracKiralamaApp.ConsoleUI
 		static void Main(string[] args)
 		{
 			UnitOfWork unitOfWork = new UnitOfWork(new AracKiralamaContext());
-			unitOfWork.SirketRepository.Add(new Sirket() { sirketAdi = "UbiSoft",adres="Bağcılar",aracSayisi=25,sehir="İstanbul", sirketPuani=50 });
+			unitOfWork.SirketRepository.Add(new Sirket() { sirketAdi = "MicroSoft",adres="Bağcılar",aracSayisi=25,sehir="İstanbul", sirketPuani=50 });
 			unitOfWork.Complete();
 			System.Console.Write("Oldu");
 			System.Console.ReadKey();
