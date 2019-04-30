@@ -18,8 +18,8 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 
 		public bool sifreDogrulama(string username,string pass)
 		{
-			var isUserValid = _dbSet.Any(x => x.kullaniciAd == username && x.parola == pass);
-			if (isUserValid)
+			var isUserValid = _dbSet.FirstOrDefault(x => x.kullaniciAd == username && x.parola == pass);
+			if (isUserValid!=null)
 			{
 				return true;
 			}
