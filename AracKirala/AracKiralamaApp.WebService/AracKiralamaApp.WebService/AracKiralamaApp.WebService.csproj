@@ -43,10 +43,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AracKiralamaApp.Business">
+    <Reference Include="AracKiralamaApp.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll</HintPath>
     </Reference>
-    <Reference Include="AracKiralamaApp.DAL">
+    <Reference Include="AracKiralamaApp.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll</HintPath>
     </Reference>
     <Reference Include="AracKiralamaApp.Domains">

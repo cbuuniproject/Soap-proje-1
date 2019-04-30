@@ -37,6 +37,28 @@ namespace AracKiralamaApp.WebService
 		}
 
 		[WebMethod]
+		public bool KullaniciDogrulama(string username,string pass)
+		{
+			try
+			{
+				using (KullaniciBusiness kullaniciBusiness = new KullaniciBusiness())
+				{
+					bool isUserValid = kullaniciBusiness.KullaniciDogrulama(username, pass);
+					if (isUserValid)
+					{
+						return true;
+					}
+					else
+						return false;
+				}
+			}
+			catch (Exception)
+			{
+				return false;
+			}
+		}
+
+		[WebMethod]
 		public bool DeleteKullanici(int kullaniciId)
 		{
 			try
