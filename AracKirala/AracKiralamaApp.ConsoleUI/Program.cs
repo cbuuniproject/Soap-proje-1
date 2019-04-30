@@ -15,7 +15,10 @@ namespace AracKiralamaApp.ConsoleUI
 		{
 			KiralamaBusiness kiralamaBusiness = new KiralamaBusiness();
 			kiralamaBusiness.InsertKiralama(new Kiralama() { aracId = 1, geriAlisTarihi = DateTime.Now, musteriId = 1, sirketId = 1, sonKm = 4200, verilisKm = 4000, ucret = 160, verilisTarihi = DateTime.Now });
-			Console.WriteLine("oldu");
+            if (kiralamaBusiness.DeleteKiralamaById(1))
+            {
+                Console.WriteLine("True");
+            }
 			Console.ReadKey();
 		}
 	}
