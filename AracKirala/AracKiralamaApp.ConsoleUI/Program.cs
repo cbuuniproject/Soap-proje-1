@@ -1,4 +1,5 @@
-﻿using AracKiralamaApp.DAL;
+﻿using AracKiralamaApp.Business.Concretes;
+using AracKiralamaApp.DAL;
 using AracKiralamaApp.Domains;
 using System;
 using System.Collections.Generic;
@@ -12,11 +13,10 @@ namespace AracKiralamaApp.ConsoleUI
 	{
 		static void Main(string[] args)
 		{
-			UnitOfWork unitOfWork = new UnitOfWork(new AracKiralamaContext());
-			unitOfWork.SirketRepository.Add(new Sirket() { sirketAdi = "MicroSoft",adres="Bağcılar",aracSayisi=25,sehir="İstanbul", sirketPuani=50 });
-			unitOfWork.Complete();
-			System.Console.Write("Oldu");
-			System.Console.ReadKey();
+			KiralamaBusiness kiralamaBusiness = new KiralamaBusiness();
+			kiralamaBusiness.InsertKiralama(new Kiralama() { aracId = 1, geriAlisTarihi = DateTime.Now, musteriId = 1, sirketId = 1, sonKm = 4200, verilisKm = 4000, ucret = 160, verilisTarihi = DateTime.Now });
+			Console.WriteLine("oldu");
+			Console.ReadKey();
 		}
 	}
 }

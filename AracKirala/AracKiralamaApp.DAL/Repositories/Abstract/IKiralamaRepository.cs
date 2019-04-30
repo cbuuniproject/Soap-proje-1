@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AracKiralamaApp.DAL.Repositories.Abstract
 {
-	interface IKiralamaRepository : IRepository<Kiralama>
+	public interface IKiralamaRepository : IRepository<Kiralama>
 	{
 	}
 }

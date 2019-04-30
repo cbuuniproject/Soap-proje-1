@@ -32,3 +32,5 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csproj.CopyComplete
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.exe
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.pdb

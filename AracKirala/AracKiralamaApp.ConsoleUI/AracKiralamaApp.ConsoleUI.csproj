@@ -58,6 +58,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AracKiralamaApp.Business\AracKiralamaApp.Business.csproj">
+      <Project>{e9865797-11cd-4960-8359-aa24e6422381}</Project>
+      <Name>AracKiralamaApp.Business</Name>
+    </ProjectReference>
     <ProjectReference Include="..\AracKiralamaApp.DAL\AracKiralamaApp.DAL.csproj">
       <Project>{eb9a5937-6f8f-462e-84de-aaee20e91bc5}</Project>
       <Name>AracKiralamaApp.DAL</Name>

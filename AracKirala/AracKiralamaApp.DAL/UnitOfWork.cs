@@ -16,9 +16,23 @@ namespace AracKiralamaApp.DAL
 		{
 			_aracKiralamaContext = context;
 			SirketRepository = new SirketRepository(_aracKiralamaContext);
+			CalisanRepository = new CalisanRepository(_aracKiralamaContext);
+			AracRepository = new AracRepository(_aracKiralamaContext);
+			KiralamaRepository = new KiralamaRepository(_aracKiralamaContext);
+			MusteriRepository = new MusteriRepository(_aracKiralamaContext);
+			KullaniciRepository = new KullaniciRepository(_aracKiralamaContext);
 		}
 		public ISirketRepository SirketRepository { get; private set; }
-		
+
+		public ICalisanRepository CalisanRepository { get; private set; }
+
+		public IAracRepository AracRepository { get; private set; }
+
+		public IKiralamaRepository KiralamaRepository { get; private set; }
+
+		public IMusteriRepository MusteriRepository { get; private set; }
+
+		public IKullaniciRepository KullaniciRepository { get; private set; }
 
 		public int Complete()
 		{

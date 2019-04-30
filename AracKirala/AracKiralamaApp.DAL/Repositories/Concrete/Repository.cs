@@ -48,5 +48,7 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 		{
 			_dbSet.RemoveRange(entities);
 		}
+
+		
 	}
 }

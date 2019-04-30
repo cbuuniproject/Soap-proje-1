@@ -1,0 +1,14 @@
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csprojAssemblyReference.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.pdb
