@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class KiralamaBusiness:IDisposable
 	{
-		public void InsertKiralama(Kiralama entity)
+		public bool InsertKiralama(Kiralama entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.KiralamaRepository.Add(entity);
 					unitOfWork.Complete();
+                    return true;
 				}
 			}
 			catch (Exception ex)
 			{
 				throw new Exception("BusinessLogic:KiralamaBusiness::InsertKiralama::Error occured.", ex);
+                return false;
 			}
 		}
 
-		public void DeleteKiralamaById(int ID)
+		public bool DeleteKiralamaById(int ID)
 		{
 			try
 			{
@@ -34,11 +36,13 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.KiralamaRepository.Remove(ID);
 					unitOfWork.Complete();
+                    return true;
 				}
 			}
 			catch (Exception ex)
 			{
 				throw new Exception("BusinessLogic:KiralamaBusiness::DeleteKiralamaById::Error occured.", ex);
+                return false;
 			}
 		}
 
