@@ -12,8 +12,8 @@ namespace AracKiralamaApp.Domains
     {
 		public Sirket()
 		{
-			araclar = new List<Arac>();
-			kiralamalar = new List<Kiralama>();
+			//araclar = new List<Arac>();
+			//kiralamalar = new List<Kiralama>();
 		}
 		[Key]
 		[Column(Order = 1)]
@@ -26,8 +26,8 @@ namespace AracKiralamaApp.Domains
 		public string adres { get; set; }
 		public ushort aracSayisi { get; set; }
 		public int? sirketPuani { get; set; }
-		public ICollection<Arac>  araclar{ get; set; }
-		public ICollection<Kiralama> kiralamalar { get; set; }
-		public ICollection<Calisan> calisanlar { get; set; }
+		//public ICollection<Arac>  araclar{ get; set; }
+		//public ICollection<Kiralama> kiralamalar { get; set; }
+		//public ICollection<Calisan> calisanlar { get; set; }
 	}
 }
