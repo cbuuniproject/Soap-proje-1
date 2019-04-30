@@ -11,7 +11,7 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 	public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
 	{
 		protected DbContext _context;
-		private DbSet<TEntity> _dbSet;
+		protected DbSet<TEntity> _dbSet;
 
 		public Repository(DbContext context)
 		{

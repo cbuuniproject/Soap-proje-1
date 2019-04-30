@@ -9,6 +9,6 @@ namespace AracKiralamaApp.DAL.Repositories.Abstract
 {
 	public interface IKullaniciRepository : IRepository<Kullanici>
 	{
-
+		bool sifreDogrulama(string username, string pass);
 	}
 }

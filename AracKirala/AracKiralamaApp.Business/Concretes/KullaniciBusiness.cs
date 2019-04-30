@@ -43,6 +43,28 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 		}
 
+		public bool KullaniciDogrulama(string username, string pass)
+		{
+			try
+			{
+				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
+				{
+					bool isUserValid= unitOfWork.KullaniciRepository.sifreDogrulama(username, pass);
+					unitOfWork.Complete();
+					if (isUserValid)
+					{
+						return true;
+					}
+					else
+						return false;
+				}
+			}
+			catch (Exception ex)
+			{
+				throw new Exception("BusinessLogic:KullaniciBusiness::InsertKullanici::Error occured.", ex);
+			}
+		}
+
 		public Kullanici SelectKullaniciById(int KullaniciId)
 		{
 			try

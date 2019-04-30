@@ -15,5 +15,18 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 
 		}
 		protected AracKiralamaContext AracKiralamaContext { get { return _context as AracKiralamaContext; } }
+
+		public bool sifreDogrulama(string username,string pass)
+		{
+			var isUserValid = _dbSet.Any(x => x.kullaniciAd == username && x.parola == pass);
+			if (isUserValid)
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
+		}
 	}
 }
