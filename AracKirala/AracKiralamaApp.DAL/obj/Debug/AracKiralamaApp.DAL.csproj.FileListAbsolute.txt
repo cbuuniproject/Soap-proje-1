@@ -30,3 +30,19 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
