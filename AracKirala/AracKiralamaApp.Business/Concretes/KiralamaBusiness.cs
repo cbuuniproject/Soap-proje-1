@@ -23,8 +23,8 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:KiralamaBusiness::InsertKiralama::Error occured.", ex);
-                return false;
 			}
 		}
 
@@ -41,8 +41,9 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:KiralamaBusiness::DeleteKiralamaById::Error occured.", ex);
-                return false;
+                
 			}
 		}
 

@@ -27,6 +27,21 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 		}
 
+		public Kullanici idAl(string username)
+		{
+			try
+			{
+				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
+				{
+					return unitOfWork.KullaniciRepository.idAl(username);
+				}
+			}
+			catch (Exception ex)
+			{
+				throw new Exception("BusinessLogic:KullaniciBusiness::InsertKullanici::Error occured.", ex);
+			}
+		}
+
 		public void DeleteKullaniciById(int ID)
 		{
 			try
@@ -62,6 +77,21 @@ namespace AracKiralamaApp.Business.Concretes
 			catch (Exception ex)
 			{
 				throw new Exception("BusinessLogic:KullaniciBusiness::InsertKullanici::Error occured.", ex);
+			}
+		}
+
+		public int maxKullaniciId()
+		{
+			try
+			{
+				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
+				{
+					return unitOfWork.KullaniciRepository.maxKullaniciId();
+				}
+			}
+			catch (Exception ex)
+			{
+				throw new Exception("BusinessLogic:KullaniciBusiness::maxKullaniciId::Error occured.", ex);
 			}
 		}
 

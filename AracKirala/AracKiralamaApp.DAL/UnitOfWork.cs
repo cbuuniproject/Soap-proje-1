@@ -34,6 +34,14 @@ namespace AracKiralamaApp.DAL
 
 		public IKullaniciRepository KullaniciRepository { get; private set; }
 
+		public IGunlukAracTakipRepository GunlukAracTakipRepository { get; private set; }
+
+		public IRolRepository RolRepository { get; set; }
+
+		public IHarcamalarRepository HarcamalarRepository { get; set; }
+
+		public IHarcamaTuruRepository HarcamaTuruRepository { get; set; }
+
 		public int Complete()
 		{
 			return _aracKiralamaContext.SaveChanges();

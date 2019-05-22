@@ -12,7 +12,7 @@ namespace AracKiralamaApp.Domains
 	{
 		public Arac()
 		{
-			kiralamalar = new List<Kiralama>();
+			
 		}
 		[Key]
 		[Column(Order = 1)]
@@ -30,7 +30,5 @@ namespace AracKiralamaApp.Domains
 		public short bagajHacmi { get; set; }
 		public byte koltukSayisi { get; set; }
 		public int gunlukFiyat { get; set; }
-		public Sirket sirket { get; set; }
-		public ICollection<Kiralama> kiralamalar { get; set; }
 	}
 }

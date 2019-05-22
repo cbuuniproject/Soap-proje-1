@@ -19,7 +19,5 @@ namespace AracKiralamaApp.Domains
 		public string soyad { get; set; }
 		public int sirketId { get; set; }
 		public int kullaniciId { get; set; }
-		public Sirket sirket { get; set; }
-		public Kullanici kullanici { get; set; }
 	}
 }

@@ -18,6 +18,5 @@ namespace AracKiralamaApp.Domains
 		public string ad { get; set; }
 		[StringLength(50)]
 		public string soyad { get; set; }
-		public Kullanici kullanici { get; set; }
 	}
 }

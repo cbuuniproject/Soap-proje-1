@@ -31,6 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,9 +45,13 @@
   <ItemGroup>
     <Compile Include="Concretes\AracBusiness.cs" />
     <Compile Include="Concretes\CalisanBusiness.cs" />
+    <Compile Include="Concretes\GunlukAracTakipBusiness.cs" />
+    <Compile Include="Concretes\HarcamalarBusiness.cs" />
+    <Compile Include="Concretes\HarcamaTuru.cs" />
     <Compile Include="Concretes\KiralamaBusiness.cs" />
     <Compile Include="Concretes\KullaniciBusiness.cs" />
     <Compile Include="Concretes\MusteriBusiness.cs" />
+    <Compile Include="Concretes\RolBusiness.cs" />
     <Compile Include="Concretes\SirketBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

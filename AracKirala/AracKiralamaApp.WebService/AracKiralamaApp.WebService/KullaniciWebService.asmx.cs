@@ -37,6 +37,22 @@ namespace AracKiralamaApp.WebService
 		}
 
 		[WebMethod]
+		public Kullanici idAl(string username)
+		{
+			try
+			{
+				using (KullaniciBusiness kullaniciBusiness = new KullaniciBusiness())
+				{
+					return kullaniciBusiness.idAl(username);
+				}
+			}
+			catch (Exception)
+			{
+				return null;
+			}
+		}
+
+		[WebMethod]
 		public bool KullaniciDogrulama(string username,string pass)
 		{
 			try
@@ -55,6 +71,22 @@ namespace AracKiralamaApp.WebService
 			catch (Exception)
 			{
 				return false;
+			}
+		}
+
+		[WebMethod]
+		public int MaxKullaniciId()
+		{
+			try
+			{
+				using (KullaniciBusiness kullaniciBusiness = new KullaniciBusiness())
+				{
+					return kullaniciBusiness.maxKullaniciId();
+				}
+			}
+			catch (Exception)
+			{
+				return 0;
 			}
 		}
 

@@ -26,8 +26,5 @@ namespace AracKiralamaApp.Domains
 		public string adres { get; set; }
 		public ushort aracSayisi { get; set; }
 		public int? sirketPuani { get; set; }
-		//public ICollection<Arac>  araclar{ get; set; }
-		//public ICollection<Kiralama> kiralamalar { get; set; }
-		//public ICollection<Calisan> calisanlar { get; set; }
 	}
 }

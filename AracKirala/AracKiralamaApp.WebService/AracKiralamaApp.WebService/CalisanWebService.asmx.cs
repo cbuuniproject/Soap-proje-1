@@ -9,7 +9,7 @@ using System.Web.Services;
 namespace AracKiralamaApp.WebService
 {
 	/// <summary>
-	/// Summary description for CalisamWebService
+	/// Summary description for CalisanWebService
 	/// </summary>
 	[WebService(Namespace = "http://tempuri.org/")]
 	[WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
@@ -18,6 +18,7 @@ namespace AracKiralamaApp.WebService
 	// [System.Web.Script.Services.ScriptService]
 	public class CalisanWebService : System.Web.Services.WebService
 	{
+
 
 		[WebMethod]
 		public bool InsertCalisan(Calisan entity)

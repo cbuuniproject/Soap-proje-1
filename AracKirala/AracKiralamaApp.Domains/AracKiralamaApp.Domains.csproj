@@ -44,9 +44,13 @@
   <ItemGroup>
     <Compile Include="Arac.cs" />
     <Compile Include="Calisan.cs" />
+    <Compile Include="GunlukAracTakip.cs" />
+    <Compile Include="Harcamalar.cs" />
+    <Compile Include="HarcamaTuru.cs" />
     <Compile Include="Kiralama.cs" />
     <Compile Include="Kullanici.cs" />
     <Compile Include="Musteri.cs" />
+    <Compile Include="Rol.cs" />
     <Compile Include="Sirket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

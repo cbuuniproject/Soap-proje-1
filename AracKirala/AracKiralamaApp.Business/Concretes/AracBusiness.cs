@@ -22,7 +22,7 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 			catch (Exception ex)
 			{
-				throw new Exception("BusinessLogic:AracBusiness::InsertArac::Error occured.", ex);
+				throw new Exception("BusinessLogic:AracBusiness::InsertArac::Error occured.",ex);
 			}
 		}
 

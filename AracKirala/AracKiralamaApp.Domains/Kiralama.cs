@@ -21,8 +21,5 @@ namespace AracKiralamaApp.Domains
 		public int verilisKm { get; set; }
 		public int? sonKm { get; set; }
 		public int? ucret { get; set; }
-		public Sirket sirket { get; set; }
-		public Arac arac { get; set; }
-
 	}
 }

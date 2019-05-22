@@ -34,3 +34,22 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.pdb
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.exe.config
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.exe
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.pdb
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csproj.CopyComplete
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.exe
+C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.pdb
