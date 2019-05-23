@@ -78,5 +78,18 @@ namespace AracKiralamaApp.WebApi_.Controllers
 			return new StandartResult<Kullanici>(content, Request);
 		}
 
+		// DELETE api/<controller>/5
+		public IHttpActionResult Delete(int id)
+		{
+			var content = new ResponseContent<Kullanici>(null);
+
+			using (var kullaniciBusiness = new KullaniciBusiness())
+			{
+				content.Result = kullaniciBusiness.DeleteKullaniciById(id) ? "1" : "0";
+
+				return new StandartResult<Kullanici>(content, Request);
+			}
+		}
+
 	}
 }
