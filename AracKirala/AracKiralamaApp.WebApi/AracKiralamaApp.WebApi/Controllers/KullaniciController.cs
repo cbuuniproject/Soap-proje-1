@@ -1,7 +1,7 @@
 ﻿using AracKiralamaApp.Business.Concretes;
 using AracKiralamaApp.Domains;
-using AracKiralamaApp.WebApi.Models;
-using AracKiralamaApp.WebApi.Results;
+using AracKiralamaApp.WebAPI.Models;
+using AracKiralamaApp.WebAPI.Results;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace AracKiralamaApp.WebApi.Controllers
+namespace AracKiralamaApp.WebAPI.Controllers
 {
     public class KullaniciController : ApiController
     {
@@ -27,14 +27,8 @@ namespace AracKiralamaApp.WebApi.Controllers
 				// Return content as a json and proper http response
 				return new StandartResult<Kullanici>(content, Request);
 			}
-		}						
-
-		public bool sifreDogrula(string kullaniciAdi,string pass)
-		{
-			using (var kullaniciBusiness = new KullaniciBusiness())
-			{
-				return kullaniciBusiness.KullaniciDogrulama(kullaniciAdi, pass);
-			}
 		}
+
+		
 	}
 }
