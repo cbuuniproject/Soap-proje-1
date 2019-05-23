@@ -12,6 +12,7 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.pdb
+<<<<<<< HEAD
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csprojAssemblyReference.cache
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CoreCompileInputs.cache
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
@@ -38,3 +39,19 @@ C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\bin\De
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
+=======
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csprojAssemblyReference.cache
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
+C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.pdb
+>>>>>>> 0f77198e988bf1a009f335352b54dea308b19865

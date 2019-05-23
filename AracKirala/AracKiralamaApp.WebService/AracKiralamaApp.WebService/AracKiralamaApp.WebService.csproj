@@ -47,6 +47,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="AracKiralamaApp.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll</HintPath>
@@ -54,6 +55,10 @@
     <Reference Include="AracKiralamaApp.Domains, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll</HintPath>
+=======
+    <Reference Include="AracKiralamaApp.Domains">
+      <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.dll</HintPath>
+>>>>>>> 0f77198e988bf1a009f335352b54dea308b19865
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
