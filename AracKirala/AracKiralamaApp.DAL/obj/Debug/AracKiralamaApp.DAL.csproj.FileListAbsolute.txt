@@ -1,67 +1,16 @@
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
-C:\Users\Muhammet\source\repos\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
-<<<<<<< HEAD
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
-C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
-=======
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
-C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
->>>>>>> 0f77198e988bf1a009f335352b54dea308b19865
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache

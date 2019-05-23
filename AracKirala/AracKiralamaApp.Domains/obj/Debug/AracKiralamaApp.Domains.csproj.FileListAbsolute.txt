@@ -16,3 +16,9 @@ C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Domains\obj\Deb
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.csproj.CoreCompileInputs.cache
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.dll
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.csprojAssemblyReference.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Domains\obj\Debug\AracKiralamaApp.Domains.pdb
