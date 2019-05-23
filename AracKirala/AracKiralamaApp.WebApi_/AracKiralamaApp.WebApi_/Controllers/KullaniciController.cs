@@ -27,5 +27,56 @@ namespace AracKiralamaApp.WebApi_.Controllers
 				return new StandartResult<Kullanici>(content, Request);
 			}
 		}
+
+		public IHttpActionResult Get(int id)
+		{
+			ResponseContent<Kullanici> content;
+
+			using (var kullaniciBusiness = new KullaniciBusiness())
+			{
+				// Get customer from business layer (Core App)
+				List<Kullanici> kullanicis= null;
+				try
+				{
+					var c = kullaniciBusiness.SelectKullaniciById(id);
+					if (c != null)
+					{
+						kullanicis = new List<Kullanici>();
+						kullanicis.Add(c);
+					}
+
+					// Prepare a content
+					content = new ResponseContent<Kullanici>(kullanicis);
+
+					// Return content as a json and proper http response
+					return new XmlResult<Kullanici>(content, Request);
+				}
+				catch (Exception)
+				{
+					// Prepare a content
+					content = new ResponseContent<Kullanici>(null);
+					return new XmlResult<Kullanici>(content, Request);
+				}
+			}
+		}
+
+		public IHttpActionResult Post([FromBody]Kullanici kullanici)
+		{
+			var content = new ResponseContent<Kullanici>(null);
+			if (kullanici != null)
+			{
+				using (var kullaniciBusiness = new KullaniciBusiness())
+				{
+					content.Result = kullaniciBusiness.InsertKullanici(kullanici) ? "1" : "0";
+
+					return new StandartResult<Kullanici>(content, Request);
+				}
+			}
+
+			content.Result = "0";
+
+			return new StandartResult<Kullanici>(content, Request);
+		}
+
 	}
 }

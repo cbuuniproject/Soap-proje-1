@@ -11,7 +11,7 @@ namespace AracKiralamaApp.Business.Concretes
 
 	public class KullaniciBusiness : IDisposable
 	{
-		public void InsertKullanici(Kullanici entity)
+		public bool InsertKullanici(Kullanici entity)
 		{
 			try
 			{
@@ -19,10 +19,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.KullaniciRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:KullaniciBusiness::InsertKullanici::Error occured.", ex);
 			}
 		}
@@ -42,7 +44,7 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 		}
 
-		public void DeleteKullaniciById(int ID)
+		public bool DeleteKullaniciById(int ID)
 		{
 			try
 			{
@@ -50,10 +52,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.KullaniciRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:KullaniciBusiness::DeleteKullaniciById::Error occured.", ex);
 			}
 		}

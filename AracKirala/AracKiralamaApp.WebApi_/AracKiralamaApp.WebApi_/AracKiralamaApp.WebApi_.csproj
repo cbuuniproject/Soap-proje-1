@@ -45,7 +45,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AracKiralamaApp.Business">
+    <Reference Include="AracKiralamaApp.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll</HintPath>
     </Reference>
     <Reference Include="AracKiralamaApp.Domains">
@@ -202,6 +203,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\ResponseContent.cs" />
+    <Compile Include="Models\SifreDogrulama.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Results\StandartResult.cs" />
     <Compile Include="Results\XmlResult.cs" />
