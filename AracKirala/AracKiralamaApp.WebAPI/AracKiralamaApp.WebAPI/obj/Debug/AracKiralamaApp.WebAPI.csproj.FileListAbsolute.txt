@@ -210,3 +210,7 @@ C:\Users\Muhammet\Desktop\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debu
 C:\Users\Muhammet\Desktop\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.csproj.CopyComplete
 C:\Users\Muhammet\Desktop\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.dll
 C:\Users\Muhammet\Desktop\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.csprojAssemblyReference.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.WebApi\AracKiralamaApp.WebApi\obj\Debug\AracKiralamaApp.WebApi.pdb
