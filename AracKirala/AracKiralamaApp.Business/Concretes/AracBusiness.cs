@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class AracBusiness : IDisposable
 	{
-		public void InsertArac(Arac entity)
+		public bool InsertArac(Arac entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.AracRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:AracBusiness::InsertArac::Error occured.",ex);
 			}
 		}
 
-		public void DeleteAracById(int ID)
+		public bool DeleteAracById(int ID)
 		{
 			try
 			{
@@ -34,10 +36,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.AracRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:AracBusiness::DeleteAracById::Error occured.", ex);
 			}
 		}

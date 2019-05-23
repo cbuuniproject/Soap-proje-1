@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class CalisanBusiness : IDisposable
 	{
-		public void InsertCalisan(Calisan entity)
+		public bool InsertCalisan(Calisan entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.CalisanRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:CalisanBusiness::InsertCalisan::Error occured.", ex);
 			}
 		}
 
-		public void DeleteCalisanById(int ID)
+		public bool DeleteCalisanById(int ID)
 		{
 			try
 			{
@@ -34,10 +36,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.CalisanRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:CalisanBusiness::DeleteCalisanById::Error occured.", ex);
 			}
 		}

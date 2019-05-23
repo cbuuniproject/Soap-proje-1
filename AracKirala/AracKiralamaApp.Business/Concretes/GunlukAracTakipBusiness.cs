@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class GunlukAracTakipBusiness:IDisposable
 	{
-		public void InsertGunlukAracTakip(GunlukAracTakip entity)
+		public bool InsertGunlukAracTakip(GunlukAracTakip entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.GunlukAracTakipRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:GunlukAracTakipBusiness::InsertGunlukAracTakip::Error occured.", ex);
 			}
 		}
 
-		public void DeleteGunlukAracTakipById(int ID)
+		public bool DeleteGunlukAracTakipById(int ID)
 		{
 			try
 			{
@@ -34,10 +36,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.GunlukAracTakipRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:GunlukAracTakipBusiness::DeleteGunlukAracTakipById::Error occured.", ex);
 			}
 		}

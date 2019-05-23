@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class HarcamaTuru:IDisposable
 	{
-		public void InsertMusteri(Musteri entity)
+		public bool InsertMusteri(Musteri entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.MusteriRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:MusteriBusiness::InsertMusteri::Error occured.", ex);
 			}
 		}
 
-		public void DeleteMusteriById(int ID)
+		public bool DeleteMusteriById(int ID)
 		{
 			try
 			{
@@ -34,10 +36,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.MusteriRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:MusteriBusiness::DeleteMusteriById::Error occured.", ex);
 			}
 		}

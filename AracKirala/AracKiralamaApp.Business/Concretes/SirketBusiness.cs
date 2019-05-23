@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class SirketBusiness :IDisposable
 	{
-		public void InsertSirket(Sirket entity)
+		public bool InsertSirket(Sirket entity)
 		{
 			try
 			{
@@ -18,6 +18,7 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.SirketRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
@@ -26,7 +27,7 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 		}
 
-		public void DeleteSirketById(int ID)
+		public bool DeleteSirketById(int ID)
 		{
 			try
 			{
@@ -34,10 +35,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.SirketRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:SirketBusiness::DeleteSirket::Error occured.", ex);
 			}
 		}

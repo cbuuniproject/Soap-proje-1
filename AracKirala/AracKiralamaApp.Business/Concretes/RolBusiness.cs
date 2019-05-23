@@ -10,7 +10,7 @@ namespace AracKiralamaApp.Business.Concretes
 {
 	public class RolBusiness:IDisposable
 	{
-		public void InsertRol(Rol entity)
+		public bool InsertRol(Rol entity)
 		{
 			try
 			{
@@ -18,15 +18,17 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.RolRepository.Add(entity);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:RolBusiness::InsertRol::Error occured.", ex);
 			}
 		}
 
-		public void DeleteRolById(int ID)
+		public bool DeleteRolById(int ID)
 		{
 			try
 			{
@@ -34,10 +36,12 @@ namespace AracKiralamaApp.Business.Concretes
 				{
 					unitOfWork.RolRepository.Remove(ID);
 					unitOfWork.Complete();
+					return true;
 				}
 			}
 			catch (Exception ex)
 			{
+				return false;
 				throw new Exception("BusinessLogic:RolBusiness::DeleteRolById::Error occured.", ex);
 			}
 		}
