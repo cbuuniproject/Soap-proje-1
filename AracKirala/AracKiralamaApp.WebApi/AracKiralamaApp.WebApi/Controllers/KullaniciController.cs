@@ -28,5 +28,13 @@ namespace AracKiralamaApp.WebApi.Controllers
 				return new StandartResult<Kullanici>(content, Request);
 			}
 		}						
+
+		public bool sifreDogrula(string kullaniciAdi,string pass)
+		{
+			using (var kullaniciBusiness = new KullaniciBusiness())
+			{
+				return kullaniciBusiness.KullaniciDogrulama(kullaniciAdi, pass);
+			}
+		}
 	}
 }
