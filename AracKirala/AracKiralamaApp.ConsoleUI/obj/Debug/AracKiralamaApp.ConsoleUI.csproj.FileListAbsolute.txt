@@ -75,3 +75,22 @@ C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.Conso
 C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.exe
 C:\Users\msait\OneDrive\Masaüstü\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.pdb
 >>>>>>> 0f77198e988bf1a009f335352b54dea308b19865
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.exe.config
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.exe
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.ConsoleUI.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.csproj.CopyComplete
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.exe
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.ConsoleUI\obj\Debug\AracKiralamaApp.ConsoleUI.pdb

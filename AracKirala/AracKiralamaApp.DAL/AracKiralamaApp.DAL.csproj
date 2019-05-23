@@ -50,9 +50,9 @@
   <ItemGroup>
     <Compile Include="AracKiralamaContext.cs" />
     <Compile Include="IUnitOfWork.cs" />
-    <Compile Include="Migrations\201905221836187_Init.cs" />
-    <Compile Include="Migrations\201905221836187_Init.Designer.cs">
-      <DependentUpon>201905221836187_Init.cs</DependentUpon>
+    <Compile Include="Migrations\201905230930348_Init.cs" />
+    <Compile Include="Migrations\201905230930348_Init.Designer.cs">
+      <DependentUpon>201905230930348_Init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -93,8 +93,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201905221836187_Init.resx">
-      <DependentUpon>201905221836187_Init.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905230930348_Init.resx">
+      <DependentUpon>201905230930348_Init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
