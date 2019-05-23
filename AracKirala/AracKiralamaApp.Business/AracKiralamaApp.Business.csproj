@@ -47,7 +47,7 @@
     <Compile Include="Concretes\CalisanBusiness.cs" />
     <Compile Include="Concretes\GunlukAracTakipBusiness.cs" />
     <Compile Include="Concretes\HarcamalarBusiness.cs" />
-    <Compile Include="Concretes\HarcamaTuru.cs" />
+    <Compile Include="Concretes\HarcamaTuruBusiness.cs" />
     <Compile Include="Concretes\KiralamaBusiness.cs" />
     <Compile Include="Concretes\KullaniciBusiness.cs" />
     <Compile Include="Concretes\MusteriBusiness.cs" />

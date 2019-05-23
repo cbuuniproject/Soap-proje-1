@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace AracKiralamaApp.Business.Concretes
 {
-	public class HarcamaTuru:IDisposable
+	public class HarcamaTuruBusiness:IDisposable
 	{
-		public bool InsertMusteri(Musteri entity)
+		public bool InsertHarcamaTuru(HarcamaTuru entity)
 		{
 			try
 			{
 				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
 				{
-					unitOfWork.MusteriRepository.Add(entity);
+					unitOfWork.HarcamaTuruRepository.Add(entity);
 					unitOfWork.Complete();
 					return true;
 				}
@@ -24,17 +24,17 @@ namespace AracKiralamaApp.Business.Concretes
 			catch (Exception ex)
 			{
 				return false;
-				throw new Exception("BusinessLogic:MusteriBusiness::InsertMusteri::Error occured.", ex);
+				throw new Exception("BusinessLogic:HarcamaTuruBusiness::InsertHarcamaTuru::Error occured.", ex);
 			}
 		}
 
-		public bool DeleteMusteriById(int ID)
+		public bool DeleteHarcamaTuruById(int ID)
 		{
 			try
 			{
 				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
 				{
-					unitOfWork.MusteriRepository.Remove(ID);
+					unitOfWork.HarcamaTuruRepository.Remove(ID);
 					unitOfWork.Complete();
 					return true;
 				}
@@ -42,18 +42,18 @@ namespace AracKiralamaApp.Business.Concretes
 			catch (Exception ex)
 			{
 				return false;
-				throw new Exception("BusinessLogic:MusteriBusiness::DeleteMusteriById::Error occured.", ex);
+				throw new Exception("BusinessLogic:HarcamaTuruBusiness::DeleteHarcamaTuruById::Error occured.", ex);
 			}
 		}
 
-		public Musteri SelectMusteriById(int MusteriId)
+		public HarcamaTuru SelectHarcamaTuruById(int HarcamaTuruId)
 		{
 			try
 			{
-				Musteri responseEntity;
+				HarcamaTuru responseEntity;
 				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
 				{
-					responseEntity = unitOfWork.MusteriRepository.GetById(MusteriId);
+					responseEntity = unitOfWork.HarcamaTuruRepository.GetById(HarcamaTuruId);
 					if (responseEntity == null)
 						throw new NullReferenceException("Customer doesnt exists!");
 					unitOfWork.Complete();
@@ -62,19 +62,19 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 			catch (Exception ex)
 			{
-				throw new Exception("BusinessLogic:MusteriBusiness::SelectMusteriById::Error occured.", ex);
+				throw new Exception("BusinessLogic:HarcamaTuruBusiness::SelectHarcamaTuruById::Error occured.", ex);
 			}
 		}
 
-		public List<Musteri> SelectAllMusteris()
+		public List<HarcamaTuru> SelectAllHarcamaTurus()
 		{
-			var responseEntities = new List<Musteri>();
+			var responseEntities = new List<HarcamaTuru>();
 
 			try
 			{
 				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
 				{
-					foreach (var entity in unitOfWork.MusteriRepository.GetAll())
+					foreach (var entity in unitOfWork.HarcamaTuruRepository.GetAll())
 					{
 						responseEntities.Add(entity);
 					}
@@ -83,7 +83,7 @@ namespace AracKiralamaApp.Business.Concretes
 			}
 			catch (Exception ex)
 			{
-				throw new Exception("BusinessLogic:MusteriBusiness::SelectAllMusteris::Error occured.", ex);
+				throw new Exception("BusinessLogic:HarcamaTuruBusiness::SelectAllHarcamaTurus::Error occured.", ex);
 			}
 		}
 
