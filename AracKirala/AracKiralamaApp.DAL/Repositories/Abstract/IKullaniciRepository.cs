@@ -12,5 +12,6 @@ namespace AracKiralamaApp.DAL.Repositories.Abstract
 		bool sifreDogrulama(string username, string pass);
 		int maxKullaniciId();
 		Kullanici idAl(string username);
+		void AddWithHash(Kullanici kullanici);
 	}
 }

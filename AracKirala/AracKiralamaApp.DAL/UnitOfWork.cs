@@ -21,6 +21,10 @@ namespace AracKiralamaApp.DAL
 			KiralamaRepository = new KiralamaRepository(_aracKiralamaContext);
 			MusteriRepository = new MusteriRepository(_aracKiralamaContext);
 			KullaniciRepository = new KullaniciRepository(_aracKiralamaContext);
+			HarcamaTuruRepository = new HarcamaTuruRepository(_aracKiralamaContext);
+			RolRepository = new RolRepository(_aracKiralamaContext);
+			GunlukAracTakipRepository = new GunlukAracTakipRepository(_aracKiralamaContext);
+			HarcamalarRepository = new HarcamalarRepository(_aracKiralamaContext);
 		}
 		public ISirketRepository SirketRepository { get; private set; }
 

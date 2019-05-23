@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.pdb
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll
@@ -12,7 +13,6 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.pdb
-<<<<<<< HEAD
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csprojAssemblyReference.cache
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CoreCompileInputs.cache
 C:\Users\Muhammet\Desktop\Soa-Proje-2\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
@@ -67,3 +67,28 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csprojAssemblyReference.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.csproj.CopyComplete
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.dll
+C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.Business\obj\Debug\AracKiralamaApp.Business.pdb
+>>>>>>> 8bf6dc3bd60b1fc5757606813b314061533c7390

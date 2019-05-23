@@ -1,4 +1,5 @@
 ﻿using AracKiralamaApp.DAL.Repositories.Abstract;
+using AracKiralamaApp.Domains;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -21,6 +22,7 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 
 		public void Add(TEntity entity)
 		{
+			
 			_dbSet.Add(entity);
 		}
 

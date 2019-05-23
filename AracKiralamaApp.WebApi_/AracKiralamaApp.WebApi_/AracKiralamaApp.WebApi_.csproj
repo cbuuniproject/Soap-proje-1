@@ -47,7 +47,7 @@
   <ItemGroup>
     <Reference Include="AracKiralamaApp.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll</HintPath>
+      <HintPath>..\..\AracKirala\AracKiralamaApp.Business\bin\Debug\AracKiralamaApp.Business.dll</HintPath>
     </Reference>
     <Reference Include="AracKiralamaApp.Domains">
       <HintPath>..\..\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll</HintPath>

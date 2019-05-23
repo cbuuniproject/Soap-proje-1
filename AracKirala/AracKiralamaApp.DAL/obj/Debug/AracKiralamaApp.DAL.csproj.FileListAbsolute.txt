@@ -14,3 +14,19 @@ C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\D
 C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
 C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
 C:\Users\msait\Desktop\GitREPO\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll.config
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.Domains.pdb
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csprojAssemblyReference.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.CopyComplete
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb

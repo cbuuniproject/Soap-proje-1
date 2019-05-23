@@ -31,6 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AracKiralamaApp.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.Data.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Xpo.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
@@ -56,10 +60,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AracKiralamaApp.DAL\AracKiralamaApp.DAL.csproj">
-      <Project>{eb9a5937-6f8f-462e-84de-aaee20e91bc5}</Project>
-      <Name>AracKiralamaApp.DAL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AracKiralamaApp.Domains\AracKiralamaApp.Domains.csproj">
       <Project>{cf31d7ae-10b7-41e7-98d2-2d9535df23e8}</Project>
       <Name>AracKiralamaApp.Domains</Name>

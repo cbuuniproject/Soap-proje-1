@@ -17,7 +17,7 @@ namespace AracKiralamaApp.Business.Concretes
 			{
 				using (var unitOfWork = new UnitOfWork(new AracKiralamaContext()))
 				{
-					unitOfWork.KullaniciRepository.Add(entity);
+					unitOfWork.KullaniciRepository.AddWithHash(entity);
 					unitOfWork.Complete();
 					return true;
 				}
@@ -139,6 +139,8 @@ namespace AracKiralamaApp.Business.Concretes
 				throw new Exception("BusinessLogic:KullaniciBusiness::SelectAllKullanicis::Error occured.", ex);
 			}
 		}
+
+
 		public void Dispose()
 		{
 			GC.SuppressFinalize(true);
