@@ -6,7 +6,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace AracKiralamaApp.WebAPI.Controllers
+namespace AracKiralamaApp.WebApi.Controllers
 {
     public class LoginController : ApiController
     {

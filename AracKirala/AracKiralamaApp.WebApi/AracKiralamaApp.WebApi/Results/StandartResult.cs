@@ -1,4 +1,4 @@
-﻿using AracKiralamaApp.WebAPI.Models;
+﻿using AracKiralamaApp.WebApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Http;
 
-namespace AracKiralamaApp.WebAPI.Results
+namespace AracKiralamaApp.WebApi.Results
 {
 	public class StandartResult<T> : IHttpActionResult where T : class
 	{
@@ -47,6 +47,4 @@ namespace AracKiralamaApp.WebAPI.Results
 			}
 		}
 	}
-
 }
-

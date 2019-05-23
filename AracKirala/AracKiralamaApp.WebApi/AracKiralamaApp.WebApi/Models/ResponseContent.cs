@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace AracKiralamaApp.WebAPI.Models
+namespace AracKiralamaApp.WebApi.Models
 {
-	public class ResponseContent<T> : IDisposable
+	public class ResponseContent<T>:IDisposable
 	{
 		public string Result { get; set; }
 		public List<T> Data { get; set; }

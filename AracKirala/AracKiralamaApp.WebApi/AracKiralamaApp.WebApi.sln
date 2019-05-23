@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralamaApp.WebAPI", "AracKiralamaApp.WebAPI\AracKiralamaApp.WebAPI.csproj", "{C37891BA-D2BB-44CB-BCA2-06859C08367B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracKiralamaApp.WebApi", "AracKiralamaApp.WebApi\AracKiralamaApp.WebApi.csproj", "{C49B130B-CD2D-4503-831E-47AF88F81901}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C37891BA-D2BB-44CB-BCA2-06859C08367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C37891BA-D2BB-44CB-BCA2-06859C08367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C37891BA-D2BB-44CB-BCA2-06859C08367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C37891BA-D2BB-44CB-BCA2-06859C08367B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49B130B-CD2D-4503-831E-47AF88F81901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49B130B-CD2D-4503-831E-47AF88F81901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49B130B-CD2D-4503-831E-47AF88F81901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49B130B-CD2D-4503-831E-47AF88F81901}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4E04E9E8-0FB3-453D-9767-3F3C47785343}
+		SolutionGuid = {F2232950-B823-4EA0-AFDC-71B5A87EB53D}
 	EndGlobalSection
 EndGlobal

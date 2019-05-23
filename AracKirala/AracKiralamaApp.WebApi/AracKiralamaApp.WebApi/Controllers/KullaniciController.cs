@@ -1,7 +1,7 @@
 ﻿using AracKiralamaApp.Business.Concretes;
 using AracKiralamaApp.Domains;
-using AracKiralamaApp.WebAPI.Models;
-using AracKiralamaApp.WebAPI.Results;
+using AracKiralamaApp.WebApi.Models;
+using AracKiralamaApp.WebApi.Results;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace AracKiralamaApp.WebAPI.Controllers
+namespace AracKiralamaApp.WebApi.Controllers
 {
     public class KullaniciController : ApiController
     {
@@ -27,7 +27,7 @@ namespace AracKiralamaApp.WebAPI.Controllers
 				// Return content as a json and proper http response
 				return new StandartResult<Kullanici>(content, Request);
 			}
-		}
+		}						
 
 		
 	}
