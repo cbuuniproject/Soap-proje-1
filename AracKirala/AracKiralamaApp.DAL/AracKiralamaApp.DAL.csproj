@@ -78,9 +78,7 @@
     <Compile Include="Repositories\Abstract\IRepository.cs" />
     <Compile Include="Repositories\Concrete\AracRepository.cs" />
     <Compile Include="Repositories\Concrete\CalisanRepository.cs" />
-    <Compile Include="Repositories\Concrete\Gelir.cs" />
     <Compile Include="Repositories\Concrete\GelirGiderHesapla.cs" />
-    <Compile Include="Repositories\Concrete\Gider.cs" />
     <Compile Include="Repositories\Concrete\GunlukAracTakipRepository.cs" />
     <Compile Include="Repositories\Concrete\HarcamalarRepository.cs" />
     <Compile Include="Repositories\Concrete\HarcamaTuruRepository.cs" />

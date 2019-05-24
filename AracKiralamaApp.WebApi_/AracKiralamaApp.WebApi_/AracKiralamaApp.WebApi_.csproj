@@ -198,6 +198,8 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\AracController.cs" />
     <Compile Include="Controllers\CalisanController.cs" />
+    <Compile Include="Controllers\GelirController.cs" />
+    <Compile Include="Controllers\GiderController.cs" />
     <Compile Include="Controllers\GunlukAracTakipController.cs" />
     <Compile Include="Controllers\HarcamalarController.cs" />
     <Compile Include="Controllers\HarcamaTuruController.cs" />

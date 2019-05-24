@@ -9,9 +9,7 @@ using System.Threading.Tasks;
 
 namespace AracKiralamaApp.DAL.Repositories.Abstract
 {
-	public interface IGunlukAracTakipRepository
+	public interface IGunlukAracTakipRepository:IRepository<GunlukAracTakip>
 	{
-		List<Gelir> gelirleriListele(int sirketId);
-		List<Gider> giderList(int sirketId);
 	}
 }

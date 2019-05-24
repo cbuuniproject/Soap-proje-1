@@ -15,5 +15,7 @@ namespace AracKiralamaApp.DAL.Repositories.Concrete
 
 		}
 		protected AracKiralamaContext AracKiralamaContext { get { return _context as AracKiralamaContext; } }
+
+		
 	}
 }

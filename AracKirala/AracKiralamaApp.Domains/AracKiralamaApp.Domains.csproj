@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="Arac.cs" />
     <Compile Include="Calisan.cs" />
+    <Compile Include="Gelir.cs" />
+    <Compile Include="Gider.cs" />
     <Compile Include="GunlukAracTakip.cs" />
     <Compile Include="Harcamalar.cs" />
     <Compile Include="HarcamaTuru.cs" />
