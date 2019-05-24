@@ -12,7 +12,7 @@ namespace AracKiralamaApp.Domains
 	{
 		public Arac()
 		{
-			
+			kullanımDurumu = false;
 		}
 		[Key]
 		[Column(Order = 1)]
@@ -22,6 +22,7 @@ namespace AracKiralamaApp.Domains
 		public string marka { get; set; }
 		[StringLength(50)]
 		public string model { get; set; }
+		public bool kullanımDurumu { get; set; }
 		public int minEhliyetYasi { get; set; }
 		public short minYasSiniri { get; set; }
 		public short gunlukMaxKmSiniri { get; set; }

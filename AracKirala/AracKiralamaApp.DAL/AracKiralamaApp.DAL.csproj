@@ -58,10 +58,15 @@
     <Compile Include="Migrations\201905232331126_Init.Designer.cs">
       <DependentUpon>201905232331126_Init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201905240615193_Yeni.cs" />
+    <Compile Include="Migrations\201905240615193_Yeni.Designer.cs">
+      <DependentUpon>201905240615193_Yeni.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\Abstract\IAracRepository.cs" />
     <Compile Include="Repositories\Abstract\ICalisanRepository.cs" />
+    <Compile Include="Repositories\Abstract\IGelirGiderHesapla.cs" />
     <Compile Include="Repositories\Abstract\IGunlukAracTakipRepository.cs" />
     <Compile Include="Repositories\Abstract\IHarcamalarRepository.cs" />
     <Compile Include="Repositories\Abstract\IHarcamaTuruRepository.cs" />
@@ -73,6 +78,9 @@
     <Compile Include="Repositories\Abstract\IRepository.cs" />
     <Compile Include="Repositories\Concrete\AracRepository.cs" />
     <Compile Include="Repositories\Concrete\CalisanRepository.cs" />
+    <Compile Include="Repositories\Concrete\Gelir.cs" />
+    <Compile Include="Repositories\Concrete\GelirGiderHesapla.cs" />
+    <Compile Include="Repositories\Concrete\Gider.cs" />
     <Compile Include="Repositories\Concrete\GunlukAracTakipRepository.cs" />
     <Compile Include="Repositories\Concrete\HarcamalarRepository.cs" />
     <Compile Include="Repositories\Concrete\HarcamaTuruRepository.cs" />
@@ -93,6 +101,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201905232331126_Init.resx">
       <DependentUpon>201905232331126_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905240615193_Yeni.resx">
+      <DependentUpon>201905240615193_Yeni.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

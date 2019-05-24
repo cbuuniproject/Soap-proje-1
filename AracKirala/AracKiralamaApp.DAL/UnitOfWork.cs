@@ -25,6 +25,7 @@ namespace AracKiralamaApp.DAL
 			RolRepository = new RolRepository(_aracKiralamaContext);
 			GunlukAracTakipRepository = new GunlukAracTakipRepository(_aracKiralamaContext);
 			HarcamalarRepository = new HarcamalarRepository(_aracKiralamaContext);
+			GelirGiderHesapla = new GelirGiderHesapla(_aracKiralamaContext);
 		}
 		public ISirketRepository SirketRepository { get; private set; }
 
@@ -45,6 +46,8 @@ namespace AracKiralamaApp.DAL
 		public IHarcamalarRepository HarcamalarRepository { get; set; }
 
 		public IHarcamaTuruRepository HarcamaTuruRepository { get; set; }
+
+		public IGelirGiderHesapla GelirGiderHesapla { get; set; }
 
 		public int Complete()
 		{

@@ -30,3 +30,4 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaA
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.pdb
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Init.resources
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.csproj.GenerateResource.cache
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKirala\AracKiralamaApp.DAL\obj\Debug\AracKiralamaApp.DAL.Migrations.Yeni.resources
