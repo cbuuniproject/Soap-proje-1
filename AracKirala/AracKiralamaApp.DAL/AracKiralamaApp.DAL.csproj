@@ -31,6 +31,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AracKiralamaApp.Domains, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -50,9 +54,9 @@
   <ItemGroup>
     <Compile Include="AracKiralamaContext.cs" />
     <Compile Include="IUnitOfWork.cs" />
-    <Compile Include="Migrations\201905230930348_Init.cs" />
-    <Compile Include="Migrations\201905230930348_Init.Designer.cs">
-      <DependentUpon>201905230930348_Init.cs</DependentUpon>
+    <Compile Include="Migrations\201905232331126_Init.cs" />
+    <Compile Include="Migrations\201905232331126_Init.Designer.cs">
+      <DependentUpon>201905232331126_Init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,14 +91,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AracKiralamaApp.Domains\AracKiralamaApp.Domains.csproj">
-      <Project>{cf31d7ae-10b7-41e7-98d2-2d9535df23e8}</Project>
-      <Name>AracKiralamaApp.Domains</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201905230930348_Init.resx">
-      <DependentUpon>201905230930348_Init.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201905232331126_Init.resx">
+      <DependentUpon>201905232331126_Init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

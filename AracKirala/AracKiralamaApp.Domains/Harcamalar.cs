@@ -20,5 +20,7 @@ namespace AracKiralamaApp.Domains
 		public int harcamaTuruId { get; set; }
 		public string  aciklama { get; set; }
 		public DateTime tarih { get; set; }
+		public int ucret { get; set; }
+
 	}
 }

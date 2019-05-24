@@ -35,6 +35,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\AracKiralamaApp.DAL\bin\Debug\AracKiralamaApp.DAL.dll</HintPath>
     </Reference>
+    <Reference Include="AracKiralamaApp.Domains, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AracKiralamaApp.Domains\bin\Debug\AracKiralamaApp.Domains.dll</HintPath>
+    </Reference>
     <Reference Include="DevExpress.Data.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Xpo.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="System" />
@@ -58,12 +62,6 @@
     <Compile Include="Concretes\RolBusiness.cs" />
     <Compile Include="Concretes\SirketBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AracKiralamaApp.Domains\AracKiralamaApp.Domains.csproj">
-      <Project>{cf31d7ae-10b7-41e7-98d2-2d9535df23e8}</Project>
-      <Name>AracKiralamaApp.Domains</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -58,6 +58,7 @@ namespace AracKiralamaApp.DAL.Migrations
                         harcamaTuruId = c.Int(nullable: false),
                         aciklama = c.String(),
                         tarih = c.DateTime(nullable: false),
+                        ucret = c.Int(nullable: false),
                     })
                 .PrimaryKey(t => t.harcamaId);
             

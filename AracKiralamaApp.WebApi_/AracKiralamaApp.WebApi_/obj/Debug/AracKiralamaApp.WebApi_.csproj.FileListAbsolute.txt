@@ -321,3 +321,4 @@ C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKiralamaApp.WebApi_\
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKiralamaApp.WebApi_\AracKiralamaApp.WebApi_\obj\Debug\AracKiralamaApp.WebApi_.dll
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKiralamaApp.WebApi_\AracKiralamaApp.WebApi_\obj\Debug\AracKiralamaApp.WebApi_.pdb
 C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKiralamaApp.WebApi_\AracKiralamaApp.WebApi_\bin\AracKiralamaApp.Business.dll
+C:\Users\Muhammet\Desktop\Github Projeleri\Soap-proje-1\AracKiralamaApp.WebApi_\AracKiralamaApp.WebApi_\bin\AracKiralamaApp.Domains.dll

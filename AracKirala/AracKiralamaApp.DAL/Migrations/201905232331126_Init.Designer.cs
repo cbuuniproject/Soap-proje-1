@@ -13,7 +13,7 @@ namespace AracKiralamaApp.DAL.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201905230930348_Init"; }
+            get { return "201905232331126_Init"; }
         }
         
         string IMigrationMetadata.Source
