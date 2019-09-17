@@ -1,2 +1,2 @@
 # Araç Kiralama Sistemi
-Rest api ve n katmanlı mimari kullanarak geliştirdiğimiz araç kiralama sistemi.
+Rest api, entity framework,repository pattern ve n katmanlı mimari kullanarak geliştirdiğimiz araç kiralama sistemi.
